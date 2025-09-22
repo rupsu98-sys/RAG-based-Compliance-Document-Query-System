@@ -1,2 +1,2 @@
-RAG-based Compliance Document Query System
+RAG-based Compliance Document Query System: 
 A Retrieval-Augmented Generation (RAG) system for efficiently navigating complex compliance and regulatory documents. In industries teams handle large volumes of dense regulatory documents. Manually finding relevant information is time-consuming and error-prone. This project demonstrates how RAG pipelines can automate and enhance document retrieval and comprehension by combining semantic search with generative NLP models.
